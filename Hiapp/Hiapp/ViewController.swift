@@ -24,6 +24,9 @@ class ViewController: UIViewController {
                //Assign it to DisplayLabel
                label.text = "Hi, \(ipText)!"
     }
+    @IBAction func switchaction(_ sender: Any) {
+        
+    }
     
 }
 
